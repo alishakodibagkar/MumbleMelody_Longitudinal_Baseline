@@ -8,9 +8,10 @@
     "version": "0.0.1",
     "question": "During this step, we will link your submission for this study.to your App ID. In order to do this, please tap the “Application ID” button on the app to find your 8-digit ID.<br><br>Input your 8-digit ID below:",
     "ui": {
-        "inputType": "number"
+        "inputType": "text"
     },
     "responseOptions": {
-        "valueType": "xxsd:integer"
+        "valueType": "xxsd:string",
+        "maxLength": 8
     }
 }
