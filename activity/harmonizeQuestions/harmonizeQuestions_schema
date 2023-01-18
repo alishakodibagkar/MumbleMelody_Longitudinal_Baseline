@@ -13,10 +13,6 @@
                 "variableName": "introduction_item_1",
                 "isVis": true
 		},
-                {"isAbout": "items/introduction_item_2",
-                "variableName": "introduction_item_2",
-                "isVis": true
-		},
 		{"isAbout": "items/open_question_choice_A",
                 "variableName": "open_question_choice_A",
                 "isVis": true
