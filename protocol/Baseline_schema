@@ -26,6 +26,7 @@
             "../activity/unalteredQuestions/unalteredQuestions_schema",
             "../activity/whisperQuestions/whisperQuestions_schema",
             "../activity/reverbQuestions/reverbQuestions_schema",
+            "../activity/harmonizeQuestions/harmonizeQuestions_schema",
 	    "../activity/ThankYou/ThankYou_schema"
         ],
         "shuffle": false,
@@ -70,6 +71,13 @@
                 "variableName": "reverbQuestions_schema",
                 "prefLabel": {
                     "en": "Mode: Reverb"
+                }
+            },
+            {
+                "isAbout": "../activity/harmonizeQuestions/harmonizeQuestions_schema",
+                "variableName": "harmonizeQuestions_schema",
+                "prefLabel": {
+                    "en": "Mode: Harmonize"
                 }
             },
             {
