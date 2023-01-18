@@ -6,7 +6,7 @@
     "description": "Page 1",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "image": "https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Baseline/master/protocol/appphone4.svg",
+    "image": "https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Baseline/master/protocol/image_1.jpeg",
     "question": "Make sure that you have the Apple headphones that we provided to you on hand, as well as the lightning to headphone jack adapter if needed.<br><br>If you have any questions or get stuck at this stage, please reach out to us at mumblemelody@mit.edu ",
     "ui": {
         "inputType": "audioImageRecord"
