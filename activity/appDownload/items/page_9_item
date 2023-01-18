@@ -6,7 +6,7 @@
     "description": "Page 9",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Your app setup is complete. In the next steps of the study, we will be asking you to speak while using each of the modes.",
+    "question": "Your app setup is complete.",
     "ui": {
         "inputType": "radio"
     },

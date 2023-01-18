@@ -6,7 +6,7 @@
     "description": "Page 7",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "For this step, open the app, click on the “Modes” page, click on Unaltered, repeat the word “testing”, and adjust your volume button until you can hear your voice in your headphones.  The “Unaltered” mode will play back your unaltered voice. If you have any issues in which either the modes aren’t working, or you are unable to hear them while you speak, please reach out to us at mumblemelody@mit.edu. Before continuing, feel free to take a moment to look over the About page and Get Involved page if you would like, and to play around with the Unaltered mode to make sure that it’s working and you can hear yourself. Try to refrain from using the other modes.<br><br>If you have any questions or get stuck at this stage, please reach out to us at mumblemelody@mit.edu",
+    "question": "For this step, open the app, click on the “Modes” page, click on Unaltered, repeat the word “testing”, and adjust your volume button until you can hear your voice in your headphones.  The “Unaltered” mode will play back your unaltered voice. If you have any issues in which either the modes aren’t working, or you are unable to hear them while you speak, please reach out to us at mumblemelody@mit.edu. Before continuing, feel free to take a moment to look over the About page and Get Involved page if you would like, and to play around with the Unaltered mode to make sure that it’s working and you can hear yourself. Try to refrain from using the other modes.",
     "ui": {
         "inputType": "radio"
     },

@@ -6,7 +6,7 @@
     "description": "Page 4",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Now you can download the app. On your iOS device, go to your App store and search “Mumble Melody” OR follow the link tinyurl.com/mumblemelodyapp. The app is currently being used specifically for research purposes, so the app has a limited time for you to use it, before it expires. If you have already downloaded Mumble Melody, and the app is expired please email us. If you recently downloaded it, the app should remain active for the remainder of the study. If the app expires at any time during the study, please reach out to our team at mumblemelody@mit.edu<br><br>At this link is an image of this step: https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Baseline/master/protocol/image_3.png<br><br>If you have any questions or get stuck at this stage, please reach out to us at mumblemelody@mit.edu",
+    "question": "Now you can download the app. On your iOS device, go to your App store and search “Mumble Melody” OR follow the link tinyurl.com/mumblemelodyapp. The app is currently being used specifically for research purposes, so the app has a limited time for you to use it, before it expires. If you have already downloaded Mumble Melody, and the app is expired please email us. If you recently downloaded it, the app should remain active for the remainder of the study. If the app expires at any time during the study, please reach out to our team at mumblemelody@mit.edu<br><br>At this link is an image of this step: https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Baseline/master/protocol/image_3.png",
     "ui": {
         "inputType": "radio"
     },
