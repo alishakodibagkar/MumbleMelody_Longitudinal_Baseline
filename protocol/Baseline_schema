@@ -27,7 +27,8 @@
             "../activity/whisperQuestions/whisperQuestions_schema",
             "../activity/reverbQuestions/reverbQuestions_schema",
             "../activity/harmonizeQuestions/harmonizeQuestions_schema",
-	    "../activity/ThankYou/ThankYou_schema"
+	    "../activity/finalInterview/finalInterview_schema",
+	    "../activity/finalInterview/finalInterview_schema"
         ],
         "shuffle": false,
         "addProperties": [
@@ -78,6 +79,13 @@
                 "variableName": "harmonizeQuestions_schema",
                 "prefLabel": {
                     "en": "Mode: Harmonize"
+                }
+            },
+            {
+                "isAbout": "../activity/finalInterview/finalInterview_schema",
+                "variableName": "final_Interview_schema",
+                "prefLabel": {
+                    "en": "Final Interview"
                 }
             },
             {
