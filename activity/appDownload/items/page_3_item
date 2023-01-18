@@ -6,7 +6,7 @@
     "description": "Page 3",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Make sure that you have the iOS device on which you will be downloading the Mumble Melody app. You can have either: (1) ONE device for all sessions: In this case, use the same device that you are conducting the session with to operate the Mumble Melody app. You will need to toggle between this browser and the application.<br>(2) TWO devices for all sessions: In this case, you will require one device to conduct sessions and ANOTHER iOS device to operate the Mumble Melody app.<br>,<br> At this link is an image of this step: https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Baseline/master/protocol/image_2.png",
+    "question": "Make sure that you have the iOS device on which you will be downloading the Mumble Melody app. You can have either: (1) ONE device for all sessions: In this case, use the same device that you are conducting the session with to operate the Mumble Melody app. You will need to toggle between this browser and the application.<br>(2) TWO devices for all sessions: In this case, you will require one device to conduct sessions and ANOTHER iOS device to operate the Mumble Melody app.<br><br>At this link is an image of this step: https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Baseline/master/protocol/image_2.png",
     "ui": {
         "inputType": "radio"
     },
