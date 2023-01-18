@@ -25,6 +25,7 @@
             "../activity/baselineQuestions/baselineQuestions_schema",
             "../activity/unalteredQuestions/unalteredQuestions_schema",
             "../activity/whisperQuestions/whisperQuestions_schema",
+            "../activity/reverbQuestions/reverbQuestions_schema",
 	    "../activity/ThankYou/ThankYou_schema"
         ],
         "shuffle": false,
@@ -54,14 +55,21 @@
                 "isAbout": "../activity/unalteredQuestions/unalteredQuestions_schema",
                 "variableName": "unalteredQuestions_schema",
                 "prefLabel": {
-                    "en": "Mode Testing: Unaltered"
+                    "en": "Mode: Unaltered"
                 }
             },
             {
                 "isAbout": "../activity/whisperQuestions/whisperQuestions_schema",
                 "variableName": "whisperQuestions_schema",
                 "prefLabel": {
-                    "en": "Mode Testing: Whisper"
+                    "en": "Mode: Whisper"
+                }
+            },
+            {
+                "isAbout": "../activity/reverbQuestions/reverbQuestions_schema",
+                "variableName": "reverbQuestions_schema",
+                "prefLabel": {
+                    "en": "Mode: Reverb"
                 }
             },
             {
