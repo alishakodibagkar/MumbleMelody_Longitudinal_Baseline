@@ -1,0 +1,26 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "page_2_item",
+    "prefLabel": "Page 1",
+    "description": "Page 1",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "image": "https://ibb.co/0B0fMdb",
+    "question": "Make sure that you have the Apple headphones that we provided to you on hand, as well as the lightning to headphone jack adapter if needed.<br><br>If you have any questions or get stuck at this stage, please reach out to us at mumblemelody@mit.edu ",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "minValue": 0,
+        "maxValue": 0,
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Continue",
+                "value": 0
+            }
+        ]
+    }
+}
