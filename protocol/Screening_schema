@@ -6,11 +6,11 @@
         }
     ],
     "@type": "reproschema:Protocol",
-    "@id": "Screening_schema",
+    "@id": "Baselone_schema",
     "prefLabel": {
-        "en": "Screening Session"
+        "en": "Baseline Session"
     },
-    "description": "Screening Session for Mumble Melody Longitudinal Study",
+    "description": "Baseline Testing Session for Mumble Melody Longitudinal Study",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
     "landingPage": [{
