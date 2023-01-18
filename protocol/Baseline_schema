@@ -57,6 +57,13 @@
                 }
             },
             {
+                "isAbout": "../activity/whisperQuestions/whisperQuestions_schema",
+                "variableName": "whisperQuestions_schema",
+                "prefLabel": {
+                    "en": "Mode Testing: Whisper"
+                }
+            },
+            {
                 "isAbout": "../activity/ThankYou/ThankYou_schema",
                 "variableName": "ThankYou_schema",
                 "prefLabel": {
