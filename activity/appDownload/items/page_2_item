@@ -18,7 +18,7 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "Continue",
+                "name": "https://picsum.photos/500/400",
                 "value": 0
             }
         ]
