@@ -53,7 +53,7 @@
                 "isAbout": "../activity/unalteredQuestions/unalteredQuestions_schema",
                 "variableName": "unalteredQuestions_schema",
                 "prefLabel": {
-                    "en": "Baseline"
+                    "en": "Mode Testing: Unaltered"
                 }
             },
             {
