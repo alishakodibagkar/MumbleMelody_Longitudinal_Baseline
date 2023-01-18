@@ -28,7 +28,7 @@
 <br>(1) First, we will ask you a few questions
 <br>(2) Next, we will ask you to do a volume check to ensure recording quality
 <br>(3) Next, we will establish your fluency baseline with a series of open questions
-<br>(4) Next, we will ask you to wear wired headphones connected to your iPhone and you will be guided using images on how using the Mumble Melody app on various settings throughout the session
+<br>(4) Next, we will guide you through the process of downloading, setting up, and using the Mumble Melody app. You will need the wired headphones and lightning-to-headphone-jack adapter we have shipped you. You will also need your iOS device to use the Mumble Melody app.
 <br>(5) Next, we will use different feedback modes which will change the way you hear your own voice. There are 4 modes and for each of them we will do a shortened version of the fluency assessment test
 <br>(6) Finally, we will ask you a few interview questions to get your feedback about the whole experience. 
     </p>
