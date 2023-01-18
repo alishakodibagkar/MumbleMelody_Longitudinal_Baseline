@@ -15,11 +15,46 @@
                  {"isAbout": "items/page_2_item",
                 "variableName": "page_2_item",
                 "isVis": true
+		},
+                 {"isAbout": "items/page_3_item",
+                "variableName": "page_3_item",
+                "isVis": true
+		},
+                 {"isAbout": "items/page_4_item",
+                "variableName": "page_4_item",
+                "isVis": true
+		},
+                 {"isAbout": "items/page_5_item",
+                "variableName": "page_5_item",
+                "isVis": true
+		},
+                 {"isAbout": "items/page_6_item",
+                "variableName": "page_6_item",
+                "isVis": true
+		},
+                 {"isAbout": "items/page_7_item",
+                "variableName": "page_7_item",
+                "isVis": true
+		},
+                 {"isAbout": "items/page_8_item",
+                "variableName": "page_8_item",
+                "isVis": true
+		},
+                 {"isAbout": "items/page_9_item",
+                "variableName": "page_9_item",
+                "isVis": true
 		}
         ],
         "order": [
             "items/page_1_item",
-            "items/page_2_item"
+            "items/page_2_item",
+            "items/page_3_item",
+            "items/page_4_item",
+            "items/page_5_item",
+            "items/page_6_item",
+            "items/page_7_item",
+            "items/page_8_item",
+            "items/page_9_item"
         ],
         "shuffle": false,
         "allow": [

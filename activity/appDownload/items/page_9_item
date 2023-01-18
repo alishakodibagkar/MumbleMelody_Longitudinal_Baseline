@@ -1,12 +1,12 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "page_2_item",
-    "prefLabel": "Page 2",
-    "description": "Page 2",
+    "@id": "page_9_item",
+    "prefLabel": "Page 9",
+    "description": "Page 9",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Make sure that you have the Apple headphones that we provided to you on hand, as well as the lightning to headphone jack adapter if needed.<br><br>At this link is an image for this step: https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Baseline/master/protocol/image_1.png<br><br>If you have any questions or get stuck at this stage, please reach out to us at mumblemelody@mit.edu ",
+    "question": "Your app setup is complete. In the next steps of the study, we will be asking you to speak while using each of the modes.",
     "ui": {
         "inputType": "radio"
     },
