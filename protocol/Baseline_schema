@@ -24,6 +24,7 @@
             "../activity/voiceCheck/voiceCheck_schema",
             "../activity/baselineQuestions/baselineQuestions_schema",
             "../activity/unalteredQuestions/unalteredQuestions_schema",
+            "../activity/whisperQuestions/whisperQuestions_schema",
 	    "../activity/ThankYou/ThankYou_schema"
         ],
         "shuffle": false,
