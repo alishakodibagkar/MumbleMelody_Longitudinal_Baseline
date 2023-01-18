@@ -1,12 +1,12 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "open_question_8",
+    "@id": "open_question_2",
     "prefLabel": "audio passage record item",
     "description": "This is a audio passage record item.",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Answer the following question for 90 seconds:<br><b>What is the best movie sequel of all times? Why?<b>",
+    "question": "Answer the following question for 90 seconds:<br><b>What kinds of food do you usually eat on your favorite holiday?<b>",
     "ui": {
         "inputType": "audioCheck"
     },

@@ -22,7 +22,7 @@
         "order": [
 	    "../activity/questions/questions_schema",
             "../activity/voiceCheck/voiceCheck_schema",
-            "../activity/voiceQuestions/voiceQuestions_schema",
+            "../activity/voiceQuestions/baselineQuestions_schema",
 	    "../activity/ThankYou/ThankYou_schema"
         ],
         "shuffle": false,
@@ -42,8 +42,8 @@
                 }
             },
             {
-                "isAbout": "../activity/voiceQuestions/voiceQuestions_schema",
-                "variableName": "voiceQuestions_schema",
+                "isAbout": "../activity/baselineQuestions/baselineQuestions_schema",
+                "variableName": "baselineQuestions_schema",
                 "prefLabel": {
                     "en": "Screening"
                 }

@@ -1,7 +1,7 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Activity",
-    "@id": "voiceQuestions_schema",
+    "@id": "baselineQuestions_schema",
     "prefLabel": "Voice Questions",
     "description": "Voice Questions.",
     "preamble": "For each speaking task, you should click the <u>Record</u> button before speaking and speak for the entire duration. Feel free to stutter freely while speaking.",
@@ -28,22 +28,6 @@
 		{"isAbout": "items/open_question_3",
                 "variableName": "open_question_choice_3",
                 "isVis": "open_question_choice_1 === 1"
-		},
-		{"isAbout": "items/open_question_choice_2",
-                "variableName": "open_question_choice_2",
-                "isVis": true
-		}, 
-		{"isAbout": "items/open_question_4",
-                "variableName": "open_question_4",
-                "isVis": "open_question_choice_2 === 0"
-		},
-		{"isAbout": "items/open_question_5",
-                "variableName": "open_question_5",
-                "isVis": "open_question_choice_2 === 1"
-		},
-		{"isAbout": "items/passage_read",
-                "variableName": "passage_read",
-                "isVis": true
 		}
         ],
         "order": [
@@ -51,11 +35,7 @@
 	    "items/open_question_1",
             "items/open_question_choice_1",
             "items/open_question_2",
-            "items/open_question_3",
-            "items/open_question_choice_2",
-            "items/open_question_4",
-            "items/open_question_5",
-	    "items/passage_read"
+            "items/open_question_3"
         ],
         "shuffle": false,
         "allow": [
