@@ -1,7 +1,7 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "introduction_item",
+    "@id": "introduction_item_1",
     "prefLabel": "introduction item",
     "description": "Introduction to Voice Section",
     "schemaVersion": "1.0.0-rc4",
