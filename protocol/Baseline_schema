@@ -45,7 +45,7 @@
                 "isAbout": "../activity/baselineQuestions/baselineQuestions_schema",
                 "variableName": "baselineQuestions_schema",
                 "prefLabel": {
-                    "en": "Screening"
+                    "en": "Baseline"
                 }
             },
             {
