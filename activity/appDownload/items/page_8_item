@@ -6,7 +6,7 @@
     "description": "page 8",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "During this step, we will link your this session to your App ID. In order to do this, please tap the “Application ID” button on the home page of the app to find your 8-digit ID.<br><br>Input your 8-digit ID below:",
+    "question": "During this step, we will link your submission for this session to your App ID. In order to do this, please tap the “Application ID” button on the home page of the app to find your 8-digit ID.<br><br>Input your 8-digit ID below:",
     "ui": {
         "inputType": "text"
     },
