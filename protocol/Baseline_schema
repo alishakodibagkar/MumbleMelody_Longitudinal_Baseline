@@ -28,7 +28,7 @@
             "../activity/reverbQuestions/reverbQuestions_schema",
             "../activity/harmonizeQuestions/harmonizeQuestions_schema",
 	    "../activity/finalInterview/finalInterview_schema",
-	    "../activity/finalInterview/finalInterview_schema"
+	    "../activity/ThankYou/ThankYou_schema"
         ],
         "shuffle": false,
         "addProperties": [
