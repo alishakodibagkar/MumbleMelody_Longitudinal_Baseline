@@ -6,15 +6,21 @@
     "description": "Page 1",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "image": "https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Baseline/master/protocol/image_1.jpeg",
+    "image": "hhttps://picsum.photos/500/400",
     "question": "Make sure that you have the Apple headphones that we provided to you on hand, as well as the lightning to headphone jack adapter if needed.<br><br>If you have any questions or get stuck at this stage, please reach out to us at mumblemelody@mit.edu ",
     "ui": {
-        "inputType": "audioImageRecord"
+        "inputType": "radio"
     },
     "responseOptions": {
-        "valueType": "schema:AudioObject",
+        "valueType": "xsd:integer",
         "minValue": 0,
-        "maxValue": 60000,
-        "multipleChoice": false
+        "maxValue": 0,
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Continue",
+                "value": 0
+            }
+        ]
     }
 }
