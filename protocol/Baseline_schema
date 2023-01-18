@@ -22,7 +22,7 @@
         "order": [
 	    "../activity/questions/questions_schema",
             "../activity/voiceCheck/voiceCheck_schema",
-            "../activity/voiceQuestions/baselineQuestions_schema",
+            "../activity/baselineQuestions/baselineQuestions_schema",
 	    "../activity/ThankYou/ThankYou_schema"
         ],
         "shuffle": false,
