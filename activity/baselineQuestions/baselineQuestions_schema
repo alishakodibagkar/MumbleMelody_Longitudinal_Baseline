@@ -40,7 +40,7 @@
             "items/open_question_choice_1",
             "items/open_question_2",
             "items/open_question_3",
-            "items/passage_read",
+            "items/passage_read"
    
         ],
         "shuffle": false,
