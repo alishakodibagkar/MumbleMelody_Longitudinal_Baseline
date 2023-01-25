@@ -6,7 +6,7 @@
     "description": "App download.",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "preamble":"Next, we will guide you through the process of downloading, setting up, and using the Mumble Melody app. We will provide a set of images to help guide you along the way.<br><br>If you have any questions or get stuck at any stage, please reach out to us at mumblemelody@mit.edu<br><br>STEP 1: Make sure that you have: the Apple headphones and the lightning-to-headphone-jack adapter that we shipped to you<img src=“https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Baseline/master/protocol/image_1.png” alt=“Headphone Jacks”>.",
+    "preamble":"Next, we will guide you through the process of downloading, setting up, and using the Mumble Melody app. We will provide a set of images to help guide you along the way.<br><br>If you have any questions or get stuck at any stage, please reach out to us at mumblemelody@mit.edu<br><br>STEP 1: Make sure that you have: the Apple headphones and the lightning-to-headphone-jack adapter that we shipped to you<img src=“https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Baseline/master/protocol/image_1.png” alt=“HeadphoneJacks”>.",
     "ui": {
         "addProperties": [
                 {"isAbout": "items/page_1_item",
