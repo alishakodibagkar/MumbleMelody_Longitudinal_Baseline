@@ -7,7 +7,7 @@
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
     "preamble":
-    "<section>
+    <section>
   <div class='text' style='padding-top: 1rem'>
     <h3>Background Information</h3>
     <p>Stuttering affects ~1% of the population worldwide. This condition is characterized by involuntary repetitions, blockages, and prolongations of sound during speaking. Studies have found that fluency can be increased for PWS using altered auditory feedback or AAF. Common AAF methods that have been found include playing back one’s own voice fractions of a second after it is spoken - this is known as “delayed auditory feedback” - and altering the pitch of one’s own voice to sound lower or higher - this is known as “frequency shifted auditory feedback”. There are commercially-available technologies that take advantage of these observations by continuously playing a recording into the ear. These systems, however, are expensive, often do not work long term, and cannot be easily personalized. We are interested in developing an approach that is more user-friendly and effective in the long term.
@@ -17,7 +17,7 @@
     <img style='margin-bottom: -6px' src='https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Screening/master/protocol/sld2.svg' alt='about'/>
   </div>
 </div>
-</section>",
+</section>,
     "ui": {
         "addProperties": [
                 {"isAbout": "items/page_1_item",
