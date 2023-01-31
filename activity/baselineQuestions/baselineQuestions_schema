@@ -28,10 +28,6 @@
 		{"isAbout": "items/open_question_3",
                 "variableName": "open_question_choice_3",
                 "isVis": "open_question_choice_1 === 1"
-		},  
-		{"isAbout": "items/passage_read",
-                "variableName": "passage_read",
-                "isVis": true
 		}
         ],
         "order": [
@@ -39,8 +35,7 @@
 	    "items/open_question_1",
             "items/open_question_choice_1",
             "items/open_question_2",
-            "items/open_question_3",
-            "items/passage_read"
+            "items/open_question_3"
    
         ],
         "shuffle": false,
