@@ -29,12 +29,12 @@
   <div class="text" style="padding-top: 1rem">
     <h3>About this Session</h3>
     <p>Here is how the session will take place today:<br>
-<br>Step 1: Initial Questions
-<br>Step 2: Audio Check
-<br>Step 3: Initial voice recording tasks - open-ended questions
-<br>Step 4: Step-by-step instructions to download, set up, and use the Mumble Melody app
-<br>Step 5-8: Voice recording tasks using 4 auditory feedback modes on the Mumble Melody app, which will change the way you hear your voice
-<br>Step 9: Final voice recording tasks to share your experience with us
+<br><b>Step 1:</b> Initial Questions
+<br><b>Step 2:</b> Audio Check
+<br><b>Step 3:</b> Initial voice recording tasks (open-ended questions)
+<br><b>Step 4:</b> Step-by-step instructions to download, set up, and use the Mumble Melody app
+<br><b>Step 5-8:</b> Voice recording tasks using 4 auditory feedback modes on the Mumble Melody app, which will change the way you hear your voice
+<br><b>Step 9:</b> Final voice recording tasks to share your experience with us
     </p>
   </div>
 </div>
@@ -43,8 +43,8 @@
 <section>
   <div class="text" style="padding-top: 1rem">
     <h3>Materials Needed</h3>
-    <br>1) Additional browser-supporting device with a microphone (used to conduct this session)
-    <br>2) Apple device to use the Mumble Melody app
+        1) Apple device to use the Mumble Melody app
+     <br>2) Additional browser-supporting device with a microphone (used to conduct this session)
     <br>3) Wired headphones (shipped to you for the study)
     <br>4) Lightning-to-headphone jack adapter (shipped to you for the study)
   </div>
