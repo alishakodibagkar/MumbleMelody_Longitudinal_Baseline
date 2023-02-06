@@ -15,22 +15,26 @@
 <section>
 <div class="container-fluid">
   <h2>Welcome to the Baseline Testing Session for the Mumble Melody Longitudinal Study on Stuttering</h2>
-  <p>Thank you for your interest in participating in this study. We are researchers from MIT working to expand research on audio-based approaches that may help increase fluency for adults who stutter.
-  </p>
 </div>
 </section>
+
+<section>
+  <div class="text" style="padding-top: 1rem">
+    <h3>Total Session Time: ~40 MINUTES</h3>
+  </div>
+</div>
 
 
 <section>
   <div class="text" style="padding-top: 1rem">
     <h3>About this Session</h3>
-    <p>Today, we will do an initial testing session consisting of a baseline assessment of your fluency and an initial assessment using four feedback modes: unaltered voice, reverb, whisper, and harmony. With those modes, you will hear your voice altered. The study aims to investigate whether those auditory feedback modes can increase fluency in people who stutter in the long term.<br><br>Here is how the session will take place today:
-<br>(1) First, we will ask you a few questions
-<br>(2) Next, we will ask you to do a volume check to ensure recording quality
-<br>(3) Next, we will establish your fluency baseline with a series of open questions
-<br>(4) Next, we will guide you through the process of downloading, setting up, and using the Mumble Melody app. You will need the wired headphones and lightning-to-headphone-jack adapter we have shipped you. You will also need your iOS device to use the Mumble Melody app.
-<br>(5) Next, we will use different feedback modes which will change the way you hear your own voice. There are 4 modes and for each of them we will do a shortened version of the fluency assessment test
-<br>(6) Finally, we will ask you a few interview questions to get your feedback about the whole experience. 
+    <p>Here is how the session will take place today:<br>
+<br>Step 1: Initial Questions
+<br>Step 2: Audio Check
+<br>Step 3: Initial voice recording tasks
+<br>Step 4: Step-by-step instructions to download, set up, and use the Mumble Melody app
+<br>Step 5-8: Voice recording tasks using 4 auditory feedback modes on the Mumble Melody app, which will change the way you hear your voice
+<br>Step 9: Final voice recording tasks to share your experience with us
     </p>
   </div>
 </div>
@@ -38,8 +42,19 @@
 
 <section>
   <div class="text" style="padding-top: 1rem">
+    <h3>Materials Needed</h3>
+    <br>1) Additional browser-supporting device with a microphone (used to conduct this session)
+    <br>2) Apple device to use the Mumble Melody app
+    <br>3) Wired headphones (shipped to you for the study)
+    <br>4) Lightning-to-headphone jack adapter (shipped to you for the study)
+  </div>
+</div>
+</section>
+
+<section>
+  <div class="text" style="padding-top: 1rem">
     <h3>Ready to Get Started?</h3>
-    <p>To begin, please make sure that you are sitting somewhere comfortable and quiet, where you feel like you can speak out loud and converse.  During this session, you will be speaking into your device, and us researchers will be analyzing your submitted recordings. Make sure that you have the Apple headphones that we provided to you on hand, as well as the lightning-to-headphone-jack adapter if needed.<br><br>You may either:<br>(1)Use ONE device for all sessions: In this case, use the same device that you are conducting this recording session with to operate the Mumble Melody app. You will need to toggle between this browser and the application.<br>(2)Use TWO devices for all sessions: In this case, you will require one device to conduct recording sessions and ANOTHER iOS device to operate the Mumble Melody app.<br><br>You will need to connect your wired headphones to the devices that you are using for Mumble Melody. Make sure your devices are adequately charged and that your iOS device is connected to the internet.<br><br>This testing session will be about 35 to 45 minutes long. Once you feel ready to begin, click the Join button below:
+    <p>Click the Join button below:
     </p>
   </div>
 </div>
