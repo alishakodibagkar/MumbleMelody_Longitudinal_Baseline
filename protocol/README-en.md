@@ -31,7 +31,7 @@
     <p>Here is how the session will take place today:<br>
 <br>Step 1: Initial Questions
 <br>Step 2: Audio Check
-<br>Step 3: Initial voice recording tasks
+<br>Step 3: Initial voice recording tasks - open-ended questions
 <br>Step 4: Step-by-step instructions to download, set up, and use the Mumble Melody app
 <br>Step 5-8: Voice recording tasks using 4 auditory feedback modes on the Mumble Melody app, which will change the way you hear your voice
 <br>Step 9: Final voice recording tasks to share your experience with us
