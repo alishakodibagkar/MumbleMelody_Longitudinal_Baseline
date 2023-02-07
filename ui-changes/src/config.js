@@ -7,6 +7,7 @@ module.exports = {
   banner: 'Baseline Testing Session for Mumble Melody Longitudinal Study',
   assetsPublicPath: '/MumbleMelody_Longitudinal_Baseline/',
   contact: 'akodiba1@mit.edu',
+  backendServer: 'https://sig.mit.edu/vb',
   showHelp: true,
   checkMediaPermission: true
 };
