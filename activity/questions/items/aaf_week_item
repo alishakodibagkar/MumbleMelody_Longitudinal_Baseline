@@ -6,7 +6,7 @@
     "description": "Question on using AAF in past week - radio item",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Have you used any form of altered auditory feedback (AAF) in the past week?",
+    "question": "Have you used any form of altered auditory feedback (AAF) in the past week, such as delayed auditory feedback, pitch-shifting/frequency-altered auditory feedback, auditory masking/masked auditory feedback, etc?",
     "ui": {
         "inputType": "radio"
     },
